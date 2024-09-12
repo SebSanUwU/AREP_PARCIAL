@@ -6,4 +6,4 @@ Este es un intento de la creacion de de la siguiente arquitectura.
 
 # DETAIL
 
-Se itneto abri la conexion en los puerto. Se crearon los controler y aun servicio. Tambien se crearon las respuesta de OK de JSON para el servicio REST de la calculadora.
+Se intento abri la conexion en los puerto. Se crearon los controler y un servicio. Tambien se crearon las respuesta de OK de JSON para el servicio REST de la calculadora.
